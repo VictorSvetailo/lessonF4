@@ -1,0 +1,34 @@
+body {
+	background-color: #b268eeb6;
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+	text-shadow: 1px 1px 3px black;
+}
+
+.block {
+	display: inline-block;
+	width: 24%;
+	background-color: #fff;
+	text-align: center;
+	height: 600px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+img {
+	width: 100%;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.button {
+	background-color: #b268eeb6;
+	text-decoration: none;
+	color: #333;
+	border-radius: 20px;
+	display: inline-block;
+	width: 150px;
+	font-size: 22px;
+}
